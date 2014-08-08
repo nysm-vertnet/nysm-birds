@@ -1,0 +1,150 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 420
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Finland ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Panama ; Times: 7
+	Country: Poland ; Times: 2
+	Country: Spain ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-04 ; Times: 1
+	Date: 2014-07-05 ; Times: 3
+	Date: 2014-07-07 ; Times: 6
+	Date: 2014-07-08 ; Times: 4
+	Date: 2014-07-09 ; Times: 4
+	Date: 2014-07-10 ; Times: 4
+	Date: 2014-07-11 ; Times: 4
+	Date: 2014-07-14 ; Times: 1
+	Date: 2014-07-15 ; Times: 4
+	Date: 2014-07-16 ; Times: 4
+	Date: 2014-07-17 ; Times: 13
+	Date: 2014-07-18 ; Times: 7
+	Date: 2014-07-21 ; Times: 1
+	Date: 2014-07-22 ; Times: 4
+	Date: 2014-07-23 ; Times: 4
+	Date: 2014-07-24 ; Times: 2
+	Date: 2014-07-26 ; Times: 1
+	Date: 2014-07-28 ; Times: 3
+	Date: 2014-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 2
+	Query: "specificepithet:varia genus:strix tissue:1" ; Times: 3
+	Query: "picoides borealis" ; Times: 5
+	Query: "apple" ; Times: 1
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm tissue:1 distance(location,geopoint(42.81152174509788,-73.4765625))<100000" ; Times: 1
+	Query: "specificepithet:scandiacus genus:bubo" ; Times: 1
+	Query: "rhipidura (fuliginosa) tissue:1" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 1
+	Query: "rhipidura (fuliginosa OR albiscapa) tissue:1" ; Times: 2
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm tissue:1 distance(location,geopoint(42.81152174509788,-73.4765625))<202804" ; Times: 1
+	Query: "jacana" ; Times: 3
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm tissue:1" ; Times: 2
+	Query: "aegolius" ; Times: 1
+	Query: "type:specimen class:aves institutioncode:nysm" ; Times: 1
+	Query: "dryocopus pileatus" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "type class:aves institutioncode:nysm" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:corax genus:corvus tissue:1" ; Times: 2
+	Query: "type:specimen genus:Ectopistes" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Danby stateprovince:"New York" country:"United States"" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "type:specimen class:aves AND (not New York) year >= 2010 year <= 2011" ; Times: 2
+	Query: "Finland" ; Times: 1
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm tissue:1 distance(location,geopoint(40.622291783092706,-75.596923828125))<218882" ; Times: 1
+	Query: "calidris ferruginea" ; Times: 1
+	Query: ""tetrao urogallus"" ; Times: 2
+	Query: "jacana spinosa" ; Times: 4
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm tissue:1 distance(location,geopoint(42.81152174509788,-73.4765625))<134640" ; Times: 1
+	Query: "dryocopus pileatus tissue:1" ; Times: 1
+	Query: "Lepidothrix coronata" ; Times: 1
+	Query: "genus:Vultur" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT fossil) year >= 1940 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus tissue:1 distance(location,geopoint(40.622291783092706,-75.596923828125))<307939" ; Times: 1
+	Query: "alcyon tissue:1" ; Times: 1
+	Query: "calidris type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm tissue:1 distance(location,geopoint(40.622291783092706,-75.596923828125))<307939" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: ""picoides borealis" year >= 1700 year <= 1969" ; Times: 1
+	Query: "Corvus imparatus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "genus:vultur" ; Times: 2
+	Query: "specificepithet:corax genus:corvus institutioncode:nysm" ; Times: 1
+	Query: "alectoris mappable:1" ; Times: 1
+	Query: ""picoides borealis"" ; Times: 3
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "aegolius h*" ; Times: 1
+	Query: "Onychoprion fuscatus year >= 1907 year <= 1953" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 437 download events in this period)
+Total number of records downloaded: 85 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 77
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 8
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-15 ; Times: 9
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-29 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "Lepidothrix coronata" ; Times: 1
+	Query: "Aphelocoma type:specimen" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 190
+Total number of records retrieved from searches: 952
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 377
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 190
+Total number of records retrieved from searches: 952
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 377
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
