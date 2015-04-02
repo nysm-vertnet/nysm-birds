@@ -1,0 +1,148 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 330
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 6
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-11 ; Times: 4
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-16 ; Times: 10
+	Date: 2015-03-17 ; Times: 2
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 3
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "type:specimen stateprovince:"Nunavut" country:"Canada"" ; Times: 2
+	Query: "Evans stateprovince:"New York"" ; Times: 3
+	Query: "motacilla tissue:1" ; Times: 1
+	Query: "country:"vanuatu" genus:petroica class:aves year >= 1990 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:anhinga genus:Anhinga (spirit OR fluid)" ; Times: 1
+	Query: "lepidothrix coronata country:"ecuador"" ; Times: 1
+	Query: "stateprovince:"Rhode Island"" ; Times: 1
+	Query: "country:"greece"" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "Callipepla squamata country:"mexico"" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "plectrophenax nivalis" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "Anhinga anhinga type:specimen (fluid)" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Coronodo Islands type:specimen country:"Mexico"" ; Times: 1
+	Query: "county:"Schenectady" stateprovince:"New York" year >= 1900 year <= 2015" ; Times: 1
+	Query: "gallus lafayetii" ; Times: 3
+	Query: "Rynchops niger" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "Cyrtonyx montezumae stateprovince:"Chihuahua" country:"Mexico" year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Myiothlypis fulvicauda type:specimen" ; Times: 1
+	Query: "country:"vanuatu" class:aves year >= 1990 year <= 2015" ; Times: 2
+	Query: "rallus longirostris" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "machaeropterus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "aves georgia united states Catharus bicknelli" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 2
+	Query: "cyanocitta cristata tissue:1" ; Times: 1
+	Query: "Greece" ; Times: 1
+	Query: "nysm Bicknell" ; Times: 1
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 298 download events in this period)
+Total number of records downloaded: 301 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 300
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 8
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.01814269299076,-76.13525390625))<6530" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 645
+Total number of records retrieved from searches: 6399
+Number of download events that retrieved data from the resource: 62
+Total number of records downloaded: 2519
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 751
+Total number of records retrieved from searches: 6726
+Number of download events that retrieved data from the resource: 165
+Total number of records downloaded: 5665
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
