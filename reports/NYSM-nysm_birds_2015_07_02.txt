@@ -1,0 +1,247 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 357
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 8
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 107
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 5
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 15
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-06 ; Times: 5
+	Date: 2015-06-07 ; Times: 4
+	Date: 2015-06-08 ; Times: 12
+	Date: 2015-06-09 ; Times: 5
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 9
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 5
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-23 ; Times: 6
+	Date: 2015-06-24 ; Times: 3
+	Date: 2015-06-25 ; Times: 5
+	Date: 2015-06-26 ; Times: 7
+	Date: 2015-06-27 ; Times: 5
+	Date: 2015-06-28 ; Times: 2
+	Date: 2015-06-29 ; Times: 10
+	Date: 2015-06-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 3
+	Query: "aves Georgia United States Passerina ciris" ; Times: 3
+	Query: "distance(location,geopoint(35.39513952947841,15.380859375))<144859" ; Times: 1
+	Query: "specificepithet:penelope genus:anas year <= 2015" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "aves Georgia United States Turdus migratorius" ; Times: 1
+	Query: "aves Georgia United States Helmitheros vermivorum" ; Times: 1
+	Query: "aves Georgia United States Catharus fuscescens" ; Times: 1
+	Query: "aves Georgia United States Icterus spurius" ; Times: 1
+	Query: "aves Georgia United States Pheucticus" ; Times: 1
+	Query: "Grus canadensis" ; Times: 3
+	Query: "rupicola" ; Times: 1
+	Query: "aythya fuligula" ; Times: 1
+	Query: ""phalacrocorax urile" year >= 1888 year <= 1900" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "aves Georgia United States chrysoptera" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:hirundo genus:sterna" ; Times: 1
+	Query: "year >= 1852 year <= 1855" ; Times: 1
+	Query: "year >= 185 year <= 1860" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<304992" ; Times: 1
+	Query: "aves Georgia United States NYSM 10602" ; Times: 1
+	Query: "gull rock" ; Times: 1
+	Query: "aimophila aestivalis" ; Times: 1
+	Query: "greece" ; Times: 1
+	Query: "recordedby:ed. hill" ; Times: 1
+	Query: "colinus virginianus year >= 1950 year <= 2015" ; Times: 1
+	Query: "Botaurus tissue:1" ; Times: 4
+	Query: "Newfoundland and Labrador" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "aves Georgia United States Icteria virens" ; Times: 1
+	Query: "Coragyps atratus type:specimen (egg)" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 2
+	Query: "aves Georgia United States Aimophila aestivalis" ; Times: 2
+	Query: "aves Georgia United States Polioptila caerulea" ; Times: 1
+	Query: "cathartes aura type:specimen (egg)" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "county:"Perry" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "aves Georgia United States Passerina caerulea" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "Mergus serrator minnesota" ; Times: 1
+	Query: "aves Georgia United States Helmitheros" ; Times: 2
+	Query: "3778 class:aves" ; Times: 2
+	Query: "Converse Wyoming" ; Times: 1
+	Query: "aves shingle shanty type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 2
+	Query: "11512" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "monroe michigan" ; Times: 1
+	Query: "type:specimen county:"Orleans" class:Aves year >= 0 year <= 2015" ; Times: 1
+	Query: "aquila heliaca" ; Times: 1
+	Query: "zonotrichia albicollis tissue:1" ; Times: 1
+	Query: "coccyzus americanus type:specimen" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 1
+	Query: "florisuga" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<165973" ; Times: 1
+	Query: "Melanerpes lewis Mexico" ; Times: 1
+	Query: "aves Georgia United States Zonotrichia albicollis" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 12
+	Query: "recordedby:j claire wood year >= 1873" ; Times: 1
+	Query: "country:"canada" recordedby:j. claire wood year >= 1880 year <= 1920" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<458119" ; Times: 2
+	Query: "genus:gallinula recordedby:j claire wood year >= 1850 year <= 2015" ; Times: 1
+	Query: ""urile"" ; Times: 1
+	Query: "Coragyps atratus florida" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: ""Vermivora ruficapilla" OR "Oreothlypis ruficapilla" OR "Leiothlypis ruficapilla" tissue:1" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "recordedby:j claire wood year >= 1901 year <= 1901" ; Times: 1
+	Query: "rynchops" ; Times: 2
+	Query: "guttera year >= 1990 year <= 2015" ; Times: 1
+	Query: "recordedby:j. claire wood AND (NOT ummz NOT wfvz) year >= 1880 year <= 1920" ; Times: 1
+	Query: "aves Georgia United States Ammodramus henslowii" ; Times: 1
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: ""cygnus buccinator" year >= 1500 year <= 1920" ; Times: 1
+	Query: "year >= 1850 year <= 1860" ; Times: 1
+	Query: "Conuropsis" ; Times: 1
+	Query: "coragyps atratus stateprovince:"florida" (egg)" ; Times: 1
+	Query: "Ocyphaps lophotes tissue:1" ; Times: 7
+	Query: "aves Georgia United States Piranga rubra" ; Times: 2
+	Query: "Anas fulvigula mexico" ; Times: 1
+	Query: "aves Georgia United States Polioptila" ; Times: 1
+	Query: "setophaga ruticilla tissue:1 distance(location,geopoint(43.18779174961303,-76.28506734967232))<165973.00803911488" ; Times: 1
+	Query: "florisuga mellivora" ; Times: 3
+	Query: "anas rubripes" ; Times: 1
+	Query: "specificepithet:buccinator genus:cygnus class:aves" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Leucosarcia melanoleuca tissue:1" ; Times: 1
+	Query: "aves Georgia United States Geothlypis" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 2
+	Query: "aves Georgia United States Vermivora chrysoptera" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga tissue:1" ; Times: 1
+	Query: "aves Georgia United States Sturnella magna" ; Times: 1
+	Query: "distance(location,geopoint(46.52863469527167,-65.21484375))<100000" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "numida" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1524 download events in this period)
+Total number of records downloaded: 2779 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2555
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "aves type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "amazilia franciae" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Leucosarcia melanoleuca tissue:1" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:hirundo genus:sterna" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 899
+Total number of records retrieved from searches: 7114
+Number of download events that retrieved data from the resource: 121
+Total number of records downloaded: 6293
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1005
+Total number of records retrieved from searches: 7441
+Number of download events that retrieved data from the resource: 224
+Total number of records downloaded: 9439
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
