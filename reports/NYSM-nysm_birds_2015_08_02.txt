@@ -1,0 +1,192 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 297
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 83
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 4
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 6
+	Date: 2015-07-10 ; Times: 6
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 4
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 6
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-25 ; Times: 13
+	Date: 2015-07-26 ; Times: 11
+	Date: 2015-07-27 ; Times: 5
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 8
+	Date: 2015-07-30 ; Times: 9
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 2000 year <= 2015" ; Times: 1
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015 distance(location,geopoint(45.583289756006316,-71.3671875))<743606" ; Times: 1
+	Query: "ID 7218" ; Times: 1
+	Query: "Picoides tissue:1" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith" ; Times: 1
+	Query: ""buteo albonotatus" egg" ; Times: 1
+	Query: "pinguinus" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<70400" ; Times: 1
+	Query: "Regulus satrapa tissue:1" ; Times: 1
+	Query: "cypseloides niger" ; Times: 1
+	Query: "parabuteo unicinctus" ; Times: 1
+	Query: ""Bonasa umbellus" tissue:1" ; Times: 2
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 2
+	Query: "skeleton Phoebastria immutabilis" ; Times: 1
+	Query: "calidris canutus" ; Times: 4
+	Query: "aves Georgia United States NYSM 13499" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "specificepithet:hudsonicus genus:Poecile OR Parus" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015" ; Times: 1
+	Query: "Cladorhynchus" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ)" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:snyder" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Laterallus" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "palmarum minnesota" ; Times: 1
+	Query: "Guttera type:specimen tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:a. smith" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 2
+	Query: "colaptes auratus tissue:1" ; Times: 1
+	Query: "Gavia immer" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "5280" ; Times: 1
+	Query: "egg "buteo lagopus"" ; Times: 2
+	Query: "sterna dougallii" ; Times: 8
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "skeleton asio flammeus" ; Times: 1
+	Query: "buteo albonotatus" ; Times: 1
+	Query: "seiurus motacilla" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 2
+	Query: "loon" ; Times: 1
+	Query: "specificepithet:corax genus:corvus tissue:1" ; Times: 1
+	Query: "c livia" ; Times: 1
+	Query: "Empidonax virescens" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM)" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "buteo lagopus" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "skeleton type:specimen specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "Melanerpes carolinus tissue:1" ; Times: 1
+	Query: "egg lapland" ; Times: 2
+	Query: "gavia immer" ; Times: 2
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB)" ; Times: 1
+	Query: "aves Georgia United States Porphyrio martinica" ; Times: 1
+	Query: "Dryocopus tissue:1" ; Times: 2
+	Query: "5851" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "specificepithet:motacilla genus:seiurus" ; Times: 2
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "country:"czech republic"" ; Times: 1
+	Query: "cladorhynchus" ; Times: 1
+	Query: "aves Georgia United States bicknelli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1084 download events in this period)
+Total number of records downloaded: 323 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 238
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "specificepithet:noveboracensis genus:Seiurus tissue:1" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "c livia" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "palmarum minnesota" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1009
+Total number of records retrieved from searches: 7411
+Number of download events that retrieved data from the resource: 145
+Total number of records downloaded: 6616
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1115
+Total number of records retrieved from searches: 7738
+Number of download events that retrieved data from the resource: 248
+Total number of records downloaded: 9762
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
