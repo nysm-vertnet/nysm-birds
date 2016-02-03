@@ -1,0 +1,151 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 1039
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 46
+	Country: Portugal ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 5
+	Date: 2015-12-09 ; Times: 7
+	Date: 2015-12-08 ; Times: 13
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 13
+	Date: 2015-12-06 ; Times: 10
+	Date: 2015-12-05 ; Times: 3
+	Date: 2015-12-04 ; Times: 8
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-24 ; Times: 7
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "perdix egg dakota" ; Times: 1
+	Query: "sphyrapicus varius year &gt;= 1999 year &lt;= 2000" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "Icteria virens" ; Times: 1
+	Query: "gyps fulvus" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "osburn" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 3
+	Query: "locality:Charlotte harbor" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "perdix egg" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 5
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "riparia riparia" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "Loon" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Tyto alba" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 3
+	Query: "Chordeiles minor" ; Times: 1
+	Query: "rhipidura fuliginosa tissue:1" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "larimer aves" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 4
+	Query: "pelecanus erythrorhynchos" ; Times: 3
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 3
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "cardellina pusilla" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "Sturnella magna" ; Times: 2
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 889 download events in this period)
+Total number of records downloaded: 535
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 5
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "alauda" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Ammodramus caudacutus" ; Times: 1
+
+
+End of report.
