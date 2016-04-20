@@ -1,0 +1,104 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 171
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "affinis minnesota" ; Times: 1
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "haematopus bachmani (British Columbia)" ; Times: 2
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Passerculus sandwichensis (adult)" ; Times: 1
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "gbifdatasetid:5345b34d-82a4-44b7-9d82-5109df1ca243" ; Times: 1
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "class:Aves county:&#34;Oswego&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1890" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "Camptorhynchus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 230 download events in this period)
+Total number of records downloaded: 27769
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-01 ; Times: 6
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "setophaga pitiayumi" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+
+
+End of report.
