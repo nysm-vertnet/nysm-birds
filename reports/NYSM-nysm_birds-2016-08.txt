@@ -1,0 +1,164 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 363
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 84
+	Country: New Zealand ; Times: 3
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-15 ; Times: 5
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 4
+	Date: 2016-08-24 ; Times: 11
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 7
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-23 ; Times: 8
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-31 ; Times: 14
+	Date: 2016-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "caspia" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "egg lapland" ; Times: 3
+	Query: "egg cumberland england" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "13787" ; Times: 1
+	Query: "Catharus guttatus month &gt;= 7 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "Farallon AND 1895" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: "catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "TP" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "egg alaska 1894" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 2
+	Query: "bicknelli month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Littlejohn AND Island" ; Times: 1
+	Query: "Bergen swamp" ; Times: 3
+	Query: "egg ontario" ; Times: 1
+	Query: "Racoon" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 9
+	Query: "Dakota 1882" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 3
+	Query: "Anser brachyrhynchus" ; Times: 2
+	Query: "type:specimen family:Parulidae stateprovince:&#34;Maine&#34; month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "egg lake manitoba" ; Times: 1
+	Query: "egg 1890" ; Times: 1
+	Query: "sterna dougallii" ; Times: 3
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "gallus" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "egg brandenburg germany" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "type:specimen genus:machaeropterus family:pipridae" ; Times: 1
+	Query: "loon" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "egg county kerry ireland" ; Times: 1
+	Query: "class:Aves continent:North america (Ivory)" ; Times: 1
+	Query: "Catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "scolopax minor" ; Times: 1
+	Query: "Clarke Aves Australia year &gt;= 1880 year &lt;= 1935" ; Times: 1
+	Query: "egg north dakota 1901" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "egg north iceland 1908" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Maine&#34; month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "egg lancaster england" ; Times: 1
+	Query: "egg orkney islands" ; Times: 1
+	Query: "otus asio tissue:1" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+	Query: "Clarke Aves year &gt;= 1880 year &lt;= 1935" ; Times: 2
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "megascops asio tissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 924 download events in this period)
+Total number of records downloaded: 624
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "&#34;ammodramus nelsoni&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+
+
+End of report.
