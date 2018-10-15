@@ -1,0 +1,319 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 322
+Number of records retrieved in searches: 2276
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: United States ; Times: 159
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 105
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 30
+	Country: Switzerland ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 20
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 8
+	Date: 2018-02-06 ; Times: 31
+	Date: 2018-02-05 ; Times: 48
+	Date: 2018-02-04 ; Times: 3
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 61
+	Date: 2018-02-23 ; Times: 9
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-27 ; Times: 58
+	Date: 2018-02-26 ; Times: 10
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 7
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 6
+	Date: 2018-02-11 ; Times: 9
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 7
+	Date: 2018-02-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 30
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Aix sponsa minnesota egg" ; Times: 1
+	Query: "class:Aves recordedby:*Cory*" ; Times: 2
+	Query: "Balearica pavonina mappable:1" ; Times: 4
+	Query: "class:aves (vanuatu) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vultur gryphus mappable:1" ; Times: 4
+	Query: "Eudocimus ruber mappable:1" ; Times: 4
+	Query: "scientificname:&#34;ciconia ciconia&#34;" ; Times: 1
+	Query: "class:aves country:&#34;french polynesia&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 2
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 3
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "bicknelli" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "distance(location,geopoint(41.8830732749165,-92.272899522))&lt;21380" ; Times: 5
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "gannet" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris lifestage:Adult sex:Male basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Carduelis hornemanni minnesota" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "specificepithet:henslowii genus:Ammodramus" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anas cyanoptera mappable:1" ; Times: 2
+	Query: "catharus fuscescens month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "ramsden" ; Times: 1
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 4
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "class:aves (vanuatu) year &gt;= 1990 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "Aix sponsa mappable:1" ; Times: 3
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Melanerpes vntype:specimen preparations:skin institutioncode:NYSM" ; Times: 1
+	Query: "caracara cheriway" ; Times: 2
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Chloephaga picta mappable:1" ; Times: 4
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "Todiramphus chloris mappable:1" ; Times: 3
+	Query: "Eudocimus albus Florida" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo hastissue:1" ; Times: 2
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "catharus bicknelli month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "class:aves locality:glass*" ; Times: 2
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Caracara plancus mappable:1" ; Times: 5
+	Query: "Chauna torquata mappable:1" ; Times: 4
+	Query: "wing vntype:specimen family:cuculidae" ; Times: 1
+	Query: "Somateria mollissima basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "specificepithet:cupido genus:Tympanuchus" ; Times: 1
+	Query: "Palsson" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Ardea cinerea" ; Times: 2
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Lophura nycthemera mappable:1" ; Times: 4
+	Query: "specificepithet:funereus genus:Aegolius country:&#34;United States&#34;" ; Times: 1
+	Query: "rollandia" ; Times: 2
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "Bucephala clangula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male preparations:skin" ; Times: 2
+	Query: "catalognumber:447" ; Times: 1
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Podiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "13773" ; Times: 1
+	Query: "vntype:specimen family:cuculidae preparations:wing" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 4
+	Query: "county:&#34;Richmond&#34; stateprovince:&#34;New York&#34; mappable:1" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 4
+	Query: "vntype:specimen family:accipitridae preparations:wing" ; Times: 1
+	Query: "class:Aves locality:Alabama" ; Times: 5
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "recordedby:*cory* year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "Melanerpes vntype:specimen institutioncode:NYSM" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "class:aves recordedby:*cory year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Monachus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "Somateria spectabilis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "Eudocimus albus" ; Times: 3
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "specificepithet:funereus genus:Aegolius" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "genus:Hirundo hastissue:1" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1" ; Times: 2
+	Query: "specificepithet:riparia genus:riparia hastissue:1" ; Times: 2
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 4
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "locality:Whiteface" ; Times: 1
+	Query: "iowa city" ; Times: 3
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "Alectoris graeca mappable:1" ; Times: 4
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 4
+	Query: "hornemanni hornemanni minnesota" ; Times: 1
+	Query: "bubulcus ibis" ; Times: 12
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male" ; Times: 1
+	Query: "class:Aves recordedby:William F. Palsson" ; Times: 2
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 4
+	Query: "Lophodytes cucullatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 2
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 2
+	Query: "specificepithet:henslowii" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 4
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 4
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "class:Aves recordedby:Palsson" ; Times: 8
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1892 download events in this period)
+Total number of records downloaded: 2574
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 87
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-11 ; Times: 7
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-06 ; Times: 7
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-02 ; Times: 14
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-05 ; Times: 24
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 6
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "passer" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+
+
+End of report.
