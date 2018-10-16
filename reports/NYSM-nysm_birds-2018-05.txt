@@ -1,0 +1,205 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 1055
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 88
+	Country: Italy ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 35
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 7
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 5
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-07 ; Times: 10
+	Date: 2018-05-04 ; Times: 9
+	Date: 2018-05-05 ; Times: 24
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 13
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 8
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 8
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 5
+	Date: 2018-05-19 ; Times: 8
+	Date: 2018-05-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aquila county:&#34;San Diego&#34; stateprovince:&#34;CALIFORNIA&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:arthus genus:Tangara" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "porzana porzana vntype:specimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "specificepithet:cayana genus:Cotinga" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:fuscater genus:Turdus" ; Times: 1
+	Query: "distance(location,geopoint(41.8830732749165,-92.272899522))&lt;21380" ; Times: 2
+	Query: "specificepithet:striatus genus:Accipiter hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:5345b34d-82a4-44b7-9d82-5109df1ca243" ; Times: 2
+	Query: "specificepithet:americana genus:Rhea mappable:1" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "specificepithet:schrankii genus:Tangara" ; Times: 1
+	Query: "specificepithet:melanicterus genus:Cacicus" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 2
+	Query: "distance(location,geopoint(41.4408871659562,-95.9614754317952))&lt;18889" ; Times: 2
+	Query: "phalacrocorax brasilianus" ; Times: 1
+	Query: "stateprovince:&#34;maine&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus preparations:Egg" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:Icterus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta hastissue:1" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 2
+	Query: "specificepithet:striatus genus:Accipiter AND (USA) hastissue:1" ; Times: 2
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "thalasseus maximus skeleton vntype:specimen" ; Times: 2
+	Query: "specificepithet:somptuosus genus:Anisognathus" ; Times: 1
+	Query: "Gallirallus philippensis" ; Times: 1
+	Query: "minnesota Aythya affinis" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cinclus" ; Times: 1
+	Query: "specificepithet:cyanea genus:Chlorophonia" ; Times: 1
+	Query: "specificepithet:carnifex genus:Phoenicircus" ; Times: 1
+	Query: "genus:Rhea" ; Times: 1
+	Query: "specificepithet:rupicola genus:Rupicola" ; Times: 1
+	Query: "(whale) institutioncode:NYSM" ; Times: 1
+	Query: "zo-9386" ; Times: 1
+	Query: "class:aves recordedby:boys" ; Times: 1
+	Query: "egg charadrius cape may" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year &gt;= 1995 month &gt;= 6 month &lt;= 7 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albilatera genus:Diglossa" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "specificepithet:rubrocapilla genus:Pipra" ; Times: 1
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "specificepithet:gyrola genus:Tangara" ; Times: 1
+	Query: "specificepithet:cayanensis genus:Icterus" ; Times: 1
+	Query: "specificepithet:nigra recordedby:Palsson" ; Times: 11
+	Query: "locality:salamanca" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Cyanerpes" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 2
+	Query: "specificepithet:striatus genus:Accipiter AND (United States) hastissue:1" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria country:&#34;united states&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:moschata genus:Cairina mappable:1" ; Times: 1
+	Query: "Aythya affinis minnesota" ; Times: 1
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 2
+	Query: "Oreothlypis luciae" ; Times: 2
+	Query: "specificepithet:coronata genus:Lepidothrix" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis genus:Gallirallus" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:minor genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:lucidus genus:Cyanerpes" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year &gt;= 1995 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pygmeus" ; Times: 1
+	Query: "specificepithet:marila genus:Aythya recordedby:Palsson" ; Times: 1
+	Query: "specificepithet:pygmaea genus:Sitta" ; Times: 1
+	Query: "P45" ; Times: 1
+	Query: "specificepithet:nudigenis genus:Turdus" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "peaples" ; Times: 1
+	Query: "alectoris rufa" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus stateprovince:&#34;Florida&#34; year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Picoides year &gt;= 1882 year &lt;= 1882" ; Times: 1
+	Query: "tringa totanus" ; Times: 3
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "specificepithet:punctata genus:Tangara" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "distance(location,geopoint(41.8976029593885,-83.4753127642145))&lt;8319" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis" ; Times: 1
+	Query: "specificepithet:atricapilla genus:Donacobius" ; Times: 1
+	Query: "specificepithet:belli genus:Basileuterus" ; Times: 1
+	Query: "distance(location,geopoint(43.749976328584,-88.6470217159059))&lt;26905" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (United States OR USA) hastissue:1" ; Times: 1
+	Query: "specificepithet:dimidiatus genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:chilensis genus:Tangara" ; Times: 1
+	Query: "vntype:specimen class:aves hastissue:1 distance(location,geopoint(45.40499453990799,-69.052734375))&lt;100000" ; Times: 1
+	Query: "class:aves stateprovince:&#34;maine&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Nyctanassa stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Humans" ; Times: 1
+	Query: "specificepithet:vespertinus genus:Coccothraustes" ; Times: 1
+	Query: "Aythya collaris" ; Times: 3
+	Query: "otis tarda" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1178 download events in this period)
+Total number of records downloaded: 557
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;45119" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "genus:Aquila county:&#34;San Diego&#34; stateprovince:&#34;CALIFORNIA&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (USA) hastissue:1" ; Times: 2
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;28430.074091808372" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "class:aves preparations:skin distance(location,geopoint(37.861844098370945,-122.04025268554688))&lt;80690" ; Times: 2
+	Query: "gulf of california class:aves year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+
+
+End of report.
