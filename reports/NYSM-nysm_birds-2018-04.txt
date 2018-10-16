@@ -1,0 +1,212 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 440
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 94
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-22 ; Times: 19
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 20
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 6
+	Date: 2018-04-24 ; Times: 3
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-06 ; Times: 5
+	Date: 2018-04-09 ; Times: 13
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-16 ; Times: 12
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-10 ; Times: 6
+	Date: 2018-04-11 ; Times: 6
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-14 ; Times: 2
+	Date: 2018-04-18 ; Times: 7
+	Date: 2018-04-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Hymenoptera" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus class:Aves year &gt;= 1850 year &lt;= 1895 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ohio birds" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:colinus AND (skeleton) year &gt;= 1976 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "class:Aves recordedby:Hatch" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu)" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "drexler c aves" ; Times: 1
+	Query: "Northern fur seal" ; Times: 1
+	Query: "egg lockhart 1862" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1899 year &lt;= 1900" ; Times: 1
+	Query: "lampornis clemenciae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 3
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "hankinson" ; Times: 1
+	Query: "Cygnus buccinator basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1899 year &lt;= 1960" ; Times: 1
+	Query: "genus:Pipilo (08) hastissue:1" ; Times: 1
+	Query: "Coragyps" ; Times: 1
+	Query: "11235 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1898" ; Times: 1
+	Query: "hymenoptera" ; Times: 1
+	Query: "genus:Histrionicus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Ortalis vetula mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis" ; Times: 1
+	Query: "Chloephaga basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "specificepithet:pelagicus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "14312 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:histrionicus genus:Histrionicus recordedby:Palsson" ; Times: 1
+	Query: "burtch" ; Times: 1
+	Query: "mccarley" ; Times: 1
+	Query: "mellisuga" ; Times: 1
+	Query: "family:rallidae class:aves hastissue:1" ; Times: 3
+	Query: "11137 institutioncode:NYSM" ; Times: 1
+	Query: "vultur gryphus" ; Times: 19
+	Query: "melanerpes radiolatus" ; Times: 1
+	Query: "genus:turdus year &gt;= 1938 year &lt;= 1938 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "machaeropterus regulus" ; Times: 1
+	Query: "vntype:specimen genus:Oceanites" ; Times: 1
+	Query: "class:aves locality:kodiak stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 3
+	Query: "10019" ; Times: 1
+	Query: "Somateria spectabilis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "caffer Acrocephalus" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 22
+	Query: "Acrocephalus caffer" ; Times: 7
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "egg mcfarlane" ; Times: 1
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 3
+	Query: "egg genus:Spheniscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis enddayofyear &lt;= 1950" ; Times: 1
+	Query: "coragyps atratus" ; Times: 1
+	Query: "specificepithet:pusilla class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1937" ; Times: 1
+	Query: "institutioncode:NYSM Setophaga striata" ; Times: 1
+	Query: "egg genus:Pygoscelis" ; Times: 4
+	Query: "egg lockhart yukon" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "Melanerpes radiolatus" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "Laterallus" ; Times: 2
+	Query: "ptarmigan" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "specificepithet:canagica genus:Chen" ; Times: 1
+	Query: "gallinago delicata egg" ; Times: 1
+	Query: "recordedby:Isador Trostler" ; Times: 1
+	Query: "egg porcupine river" ; Times: 1
+	Query: "Cathartidae vntype:specimen institutioncode:NYSM" ; Times: 2
+	Query: "Aythya collaris" ; Times: 1
+	Query: "class:Aves recordedby:Palsson" ; Times: 1
+	Query: "country:&#34;brazil&#34; preparations:egg" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1359 download events in this period)
+Total number of records downloaded: 388
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 9
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "distance(location,geopoint(47.12999,-99.25055))&lt;50000" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Cathartidae vntype:specimen institutioncode:NYSM" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Hymenoptera" ; Times: 2
+	Query: "distance(location,geopoint(46.76972,-100.91535))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
