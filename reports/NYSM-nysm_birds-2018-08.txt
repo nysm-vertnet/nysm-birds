@@ -1,0 +1,177 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 642
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 73
+	Country: Germany ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-28 ; Times: 4
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 8
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 6
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 19
+	Date: 2018-08-21 ; Times: 8
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-05 ; Times: 5
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 5
+	Date: 2018-08-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "picoides borealis" ; Times: 1
+	Query: "DOL" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "genus:Parabuteo" ; Times: 1
+	Query: "county:&#34;Duval&#34; stateprovince:&#34;Florida&#34; year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "catalognumber:zo-10896 institutioncode:NYSM" ; Times: 2
+	Query: "Sterna dougallii vntype:specimen institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:rhipidura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Goura victoria" ; Times: 4
+	Query: "falco biarmicus" ; Times: 6
+	Query: "specificepithet:biarmicus genus:falco" ; Times: 1
+	Query: "catalognumber:11590 institutioncode:NYSM" ; Times: 2
+	Query: "catalognumber:zo-12014 institutioncode:NYSM" ; Times: 2
+	Query: "county:&#34;Pottawattamie&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "LAC 104" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "rollandia rolland rolland" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "specificepithet:ossifragus genus:corvus class:aves" ; Times: 1
+	Query: "bucephala islandica" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sterna dougallii institutioncode:NYSM" ; Times: 2
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "genus:charadrius county:&#34;orange&#34; catalognumber:zo-12638" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "11472" ; Times: 1
+	Query: "specificepithet:magnolia genus:setophaga stateprovince:&#34;pennsylvania&#34; year &gt;= 1800 year &lt;= 1984 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:NYSM" ; Times: 3
+	Query: "colinus AND carolina" ; Times: 1
+	Query: "gbifdatasetid:5345b34d-82a4-44b7-9d82-5109df1ca243" ; Times: 4
+	Query: "genus:rhipidura country:&#34;vanuatu&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:10897 institutioncode:NYSM" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "colinus stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "Sterna dougallii institutioncode:NYSM" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "egg point barrow alaska" ; Times: 1
+	Query: "10699" ; Times: 1
+	Query: "recordedby:isador s trostler" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 4
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "falco sparverius distance(location,geopoint(30.117396557084373,-96.76109104940912))&lt;100000" ; Times: 4
+	Query: "specificepithet:cooperii genus:Accipiter stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 1
+	Query: "specificepithet:alexandrinus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "11297" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1416 download events in this period)
+Total number of records downloaded: 864
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 12
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Sterna dougallii vntype:specimen institutioncode:NYSM" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Numenius americanus" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:NYSM" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:megascops" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Donacobius atricapilla" ; Times: 1
+	Query: "specificepithet:alexandrinus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+
+
+End of report.
