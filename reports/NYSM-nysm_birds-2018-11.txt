@@ -1,0 +1,200 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 383
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 114
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 5
+	Date: 2018-11-08 ; Times: 8
+	Date: 2018-11-07 ; Times: 12
+	Date: 2018-11-06 ; Times: 9
+	Date: 2018-11-05 ; Times: 17
+	Date: 2018-11-04 ; Times: 18
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 5
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-27 ; Times: 7
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-20 ; Times: 6
+	Date: 2018-11-22 ; Times: 2
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 9
+	Date: 2018-11-18 ; Times: 7
+	Date: 2018-11-19 ; Times: 5
+	Date: 2018-11-12 ; Times: 5
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-16 ; Times: 3
+	Date: 2018-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atratus genus:Coragyps country:&#34;United States&#34;" ; Times: 1
+	Query: "minnesota Anas platyrhynchos" ; Times: 1
+	Query: "Strix Varia year &lt;= 1970" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "Aechmophorus clarkii mappable:1" ; Times: 1
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 4
+	Query: "Grus Americana" ; Times: 1
+	Query: "minnesota Sialia sialis" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "lagopus muta" ; Times: 3
+	Query: "catalognumber:zo-14207 institutioncode:NYSM" ; Times: 2
+	Query: "family:pandionidae hastissue:1" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "Cygnus olor" ; Times: 2
+	Query: "Stercorariidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "Numenius americanus mappable:1" ; Times: 2
+	Query: "netherlands" ; Times: 1
+	Query: "specificepithet:buccinator genus:Cygnus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 4
+	Query: "vntype:specimen specificepithet:buccinator genus:Cygnus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "class:aves stateprovince:&#34;minnesota&#34; recordedby:johnson year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "genus:Toxostoma year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 5
+	Query: "machaeropterus regulus" ; Times: 1
+	Query: "specificepithet:mississippiensis genus:Ictinia hastissue:1" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "oreothlypis peregrina" ; Times: 4
+	Query: "minnesota Oreothlypis ruficapilla" ; Times: 1
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "specificepithet:mauri genus:Calidris stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Arnold institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile year &gt;= 2008 year &lt;= 2018" ; Times: 1
+	Query: "minnesota Buteo platypterus" ; Times: 1
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "minnesota Charadrius vociferus" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus hastissue:1" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 4
+	Query: "specificepithet:atricapillus genus:poecile year &gt;= 2008 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 4
+	Query: "minnesota Accipiter gentilis" ; Times: 1
+	Query: "catalognumber:zo-2945 institutioncode:NYSM" ; Times: 1
+	Query: "aythya valisineria mexico" ; Times: 1
+	Query: "minnesota Accipiter striatus" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 4
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 4
+	Query: "minnesota Dryocopus pileatus" ; Times: 1
+	Query: "catalognumber:(11234 OR 123532)" ; Times: 1
+	Query: "Eupodotis tissue" ; Times: 3
+	Query: "class:aves locality:bird recordedby:baynard" ; Times: 1
+	Query: "campephilus principalis" ; Times: 3
+	Query: "specificepithet:atricapillus genus:poecile year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hastissue:1" ; Times: 2
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "minnesota Phalacrocorax auritus" ; Times: 1
+	Query: "genus:Colaptes county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "gallus gallus" ; Times: 1
+	Query: "minnesota Chlidonias niger" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 4
+	Query: "vntype:specimen genus:Picoides family:Picidae lifestage:juvenile" ; Times: 2
+	Query: "lepidothrix coronata" ; Times: 3
+	Query: "specificepithet:maritimus genus:ammodramus hastissue:1" ; Times: 1
+	Query: "Eupodotis senegalensis tissue" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "genus:otis" ; Times: 3
+	Query: "class:aves recordedby:baynard" ; Times: 1
+	Query: "RHEA AMERICANA" ; Times: 1
+	Query: "Ciconiidae" ; Times: 2
+	Query: "catalognumber:11137 institutioncode:NYSM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1719 download events in this period)
+Total number of records downloaded: 1224
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 26
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 6
+	Date: 2018-11-27 ; Times: 5
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "junco hyemalis vntype:specimen" ; Times: 1
+	Query: "family:accipitridae hastissue:1" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "family:pandionidae hastissue:1" ; Times: 1
+	Query: "genus:Prunella" ; Times: 2
+	Query: "Buteo buteo" ; Times: 1
+	Query: "family:falconidae hastissue:1" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "Sula nebouxii mexico" ; Times: 1
+	Query: "specificepithet:mississippiensis genus:Ictinia hastissue:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile year &gt;= 2008 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "specificepithet:mauri genus:Calidris stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "order:Ciconiiformes hastissue:1" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Eupodotis tissue" ; Times: 1
+	Query: "family:ciconiidae hastissue:1" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
