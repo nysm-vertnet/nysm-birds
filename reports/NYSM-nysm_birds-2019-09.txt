@@ -1,0 +1,207 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 283
+Number of records retrieved in searches: 1417
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 253
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Panama ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 6
+	Date: 2019-09-17 ; Times: 5
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 12
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 19
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-06 ; Times: 139
+	Date: 2019-09-05 ; Times: 8
+	Date: 2019-09-04 ; Times: 41
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-24 ; Times: 4
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "anhimidae" ; Times: 1
+	Query: "genus:limosa haemastica" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Calidris canutus" ; Times: 15
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;Vermont&#34; month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 3
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "locality:San Benito Islands" ; Times: 1
+	Query: "genus:aegolius AND NOT (funereus) hastissue:1" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 1
+	Query: "genus:coturnicops" ; Times: 1
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 12
+	Query: "Junco hyemalis stateprovince:&#34;New York&#34; month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "Vassar" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 4
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (Not buteo OR vulpes)" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (Buteo)" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 49
+	Query: "vireo griseus" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 25
+	Query: "genus:Lagopus family:Phasianidae order:Galliformes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "Setophaga virens month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "family:Sittidae preparations:egg" ; Times: 1
+	Query: "genus:Buteogallus NOT (skin egg)" ; Times: 1
+	Query: "family:Phasianidae order:Galliformes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "(lagopus) AND (not buteo)" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;New York&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Setophaga coronata month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Catharus ustulatus year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "hastissue:1 gavia" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 4
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 3
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 30
+	Query: "Lagopus lagopus vntype:specimen locality:Newfoundland AND (NOT buteo)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Pinguinus" ; Times: 2
+	Query: "genus:Buteogallus NOT (skin)" ; Times: 1
+	Query: "aplonis skeleton" ; Times: 1
+	Query: "Somateria fischeri" ; Times: 2
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "preparations:skeleton dryocopus" ; Times: 3
+	Query: "specificepithet:colubris genus:Archilochus hastissue:1" ; Times: 1
+	Query: "specificepithet:Chrysoptera genus:Vermivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina country:&#34;canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 45
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1073 download events in this period)
+Total number of records downloaded: 428
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 24
+	Country: United States ; Times: 22
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 9
+	Date: 2019-09-19 ; Times: 20
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "boreas" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;New York&#34; month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen locality:Newfoundland (lagopus) AND (NOT buteo)" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (not buteo)" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
