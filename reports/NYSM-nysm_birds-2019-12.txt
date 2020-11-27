@@ -1,0 +1,125 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 203
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 34
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-29 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-04 ; Times: 10
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-06 ; Times: 4
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-02 ; Times: 10
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-12 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "Vermivora cyanoptera" ; Times: 2
+	Query: "marsh new mexico 1885 aves" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Greenland" ; Times: 1
+	Query: "Himantopus AND Island" ; Times: 1
+	Query: "Accipiter AND Island" ; Times: 1
+	Query: "Aegolius funereus" ; Times: 1
+	Query: "specificepithet:guttatus year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "L.R. Wolfe" ; Times: 2
+	Query: "teretistris fernandinae" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 4
+	Query: "Barker specificepithet:platensis genus:cistothorus" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "specificepithet:phoebe year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Falco naumanni" ; Times: 3
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 7
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "Turdus nudigenis" ; Times: 3
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "Corvus brachyrhynchos vntype:specimen institutioncode:NYSM" ; Times: 1
+	Query: "205 genus:troglodytes" ; Times: 1
+	Query: "fort macon" ; Times: 3
+	Query: "recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 2
+	Query: "Oscar E. Baynard" ; Times: 2
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "205 specificepithet:aedon genus:troglodytes" ; Times: 2
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "Oscar E. Baynard year &gt;= 1910" ; Times: 1
+	Query: "specificepithet:phoebe class:aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 596 download events in this period)
+Total number of records downloaded: 65
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen genus:Puffinus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Ecuador&#34; (Carlos Olalla)" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "fish vntype:specimen (new york) hastissue:1" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
