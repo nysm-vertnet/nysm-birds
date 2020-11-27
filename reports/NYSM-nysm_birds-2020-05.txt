@@ -1,0 +1,173 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 358
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 27
+	Country: Colombia ; Times: 3
+	Country: United States ; Times: 69
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 13
+	Country: Iraq ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-02 ; Times: 4
+	Date: 2020-05-07 ; Times: 33
+	Date: 2020-05-01 ; Times: 25
+	Date: 2020-05-09 ; Times: 7
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 10
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "Elanoides minnesota" ; Times: 4
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:male" ; Times: 1
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "Branta canadensis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Vanellus+chilensis" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:male" ; Times: 1
+	Query: "Texas Anser albifrons" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "Anas rubripes sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:male" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "IF 10041" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Anas rubripes" ; Times: 6
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "recordedby:bicknell" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 2
+	Query: "Branta ws OR wingspan OR wing+span" ; Times: 2
+	Query: "egg Stevens" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:immature sex:female" ; Times: 1
+	Query: "Accipiter cooperii ws OR wingspan OR wing+span" ; Times: 9
+	Query: "genus:catharus recordedby:bicknell" ; Times: 1
+	Query: "genus:Vultur" ; Times: 3
+	Query: "specificepithet:Canadensis genus:Branta (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 7
+	Query: "&#34;Anas rubripes&#34; sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 3
+	Query: "Iraq" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "Accipiter ws OR wingspan OR wing+span" ; Times: 2
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "pelagodroma marina" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "genus:catharus recordedby:bicknell institutioncode:NYSM" ; Times: 1
+	Query: "Catharus Riverdale" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:male" ; Times: 1
+	Query: "aegypius monachus" ; Times: 1
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "monachus monachus" ; Times: 2
+	Query: "specificepithet:striatus genus:accipiter stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "monachus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1106 download events in this period)
+Total number of records downloaded: 707
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "petechia" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+
+
+End of report.
