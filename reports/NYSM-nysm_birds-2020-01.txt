@@ -1,0 +1,156 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 48
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-01 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 4
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-18 ; Times: 6
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-15 ; Times: 8
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 2
+	Query: "canadensis 1876" ; Times: 1
+	Query: "Numenius americanus minnesota" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 3
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "13731" ; Times: 1
+	Query: "camptorhynchus" ; Times: 1
+	Query: "Himantopus mexicanus minnesota" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bendire basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "catalognumber:13654 institutioncode:NYSM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:peck basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "12353" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:NYSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 2
+	Query: "sterna minnesota" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 1
+	Query: "catalognumber:13619 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:tenuirostris class:aves institutioncode:NYSM" ; Times: 1
+	Query: "mexicanus minnesota" ; Times: 1
+	Query: "specificepithet:americana genus:grus" ; Times: 1
+	Query: "Phalaropus minnesota" ; Times: 1
+	Query: "Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:NYSM" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "setophaga fusca" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus hastissue:1" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "puffinus assimilis" ; Times: 2
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Grus americana" ; Times: 2
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:NYSM" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "canutus minnesota" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1584 download events in this period)
+Total number of records downloaded: 608
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Germany ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
