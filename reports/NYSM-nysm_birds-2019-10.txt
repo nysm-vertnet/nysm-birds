@@ -1,0 +1,263 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 258
+Number of records retrieved in searches: 1398
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 36
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 30
+	Country: India ; Times: 1
+	Country: United States ; Times: 155
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 9
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-26 ; Times: 9
+	Date: 2019-10-25 ; Times: 9
+	Date: 2019-10-22 ; Times: 42
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 24
+	Date: 2019-10-24 ; Times: 31
+	Date: 2019-10-29 ; Times: 19
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-12 ; Times: 4
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-31 ; Times: 14
+	Date: 2019-10-14 ; Times: 11
+	Date: 2019-10-17 ; Times: 8
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-30 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Pachycephala Vanuatu" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad AND 1897" ; Times: 1
+	Query: "family:Alcedinidae locality:tanna" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad and 1930" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus preparations:egg" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND &#34;1897-04-10&#34; NOT &#34;1897-04-09&#34; NOT 1940" ; Times: 1
+	Query: "catalognumber:5157 institutioncode:NYSM" ; Times: 2
+	Query: "Zonotrichia querula mappable:1" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "struthio egg" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "setophaga discolor" ; Times: 1
+	Query: "catalognumber:5404 institutioncode:NYSM" ; Times: 2
+	Query: "Rallus elegans" ; Times: 1
+	Query: "gbifdatasetid:5345b34d-82a4-44b7-9d82-5109df1ca243" ; Times: 4
+	Query: "11188" ; Times: 1
+	Query: "Spinus tristis mappable:1" ; Times: 2
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "Phaethon aethereus AND Island" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "gray vireo" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad and 1897" ; Times: 1
+	Query: "Platalea" ; Times: 2
+	Query: "Stercorariidae continent:Oceania" ; Times: 6
+	Query: "catalognumber:4665 institutioncode:NYSM" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony AND NYSM" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad" ; Times: 3
+	Query: "Phalacrocorax pelagicus AND Farallon" ; Times: 1
+	Query: "Todiramphus chloris year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 3
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34;" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad NOT Anthony" ; Times: 1
+	Query: "genus:Plectrophenax stateprovince:&#34;Alaska&#34; year &gt;= 1800 year &lt;= 1880" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "Coccyzus americanus 1993" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 AND Bancroft NOT Harrison" ; Times: 1
+	Query: "Charadrius melodus 1984" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony AND 1897" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "catalognumber:5137 institutioncode:NYSM" ; Times: 2
+	Query: "hymenoptera" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:4664 institutioncode:NYSM" ; Times: 3
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "setophaga virens" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony NOT YPM NOT MVZ NOT WFVZ NOT CM" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Puffinus griseus AND Island" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1930 AND Tyler" ; Times: 2
+	Query: "Stercorariidae continent:South America" ; Times: 8
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "Coccyzus americanus 1987" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT Harrison" ; Times: 2
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony NOT MVZ NOT WFVZ NOT CM" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "catalognumber:5158 institutioncode:NYSM" ; Times: 2
+	Query: "caerulescens Setophaga" ; Times: 10
+	Query: "Coccyzus americanus 1973" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 4
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "setophaga virens year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad NOT &#34;1897-04-09&#34; NOT 1940" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT YPM AND Bancroft NOT Harrison" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony" ; Times: 15
+	Query: "Oreothlypis luciae" ; Times: 1
+	Query: "Puffinus AND Natividad AND Anthony AND 1897" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "catalognumber:5161 institutioncode:NYSM" ; Times: 3
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Xema sabini continent:Europe" ; Times: 3
+	Query: "specificepithet:americana genus:Grus class:Aves continent:North America" ; Times: 1
+	Query: "Vermivora chrysoptera" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "setophaga coronata year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "catalognumber:5138 institutioncode:NYSM" ; Times: 2
+	Query: "Piranga rubra AND Island" ; Times: 1
+	Query: "pandion haliaetus" ; Times: 1
+	Query: "párabuteo" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "buteo platypterus hastissue:1" ; Times: 1
+	Query: "Poecile carolinensis georgia" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony AND NYSM NOT MVZ NOT MCZ NOT 1922" ; Times: 1
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "Coccyzus americanus 2000" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "Coccyzus americanus 2007" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 1
+	Query: "Puffinus opisthomelas" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "catharus ustulatus year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "Anas cyanoptera AND Baja" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:5393 institutioncode:NYSM" ; Times: 2
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932" ; Times: 2
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "puffinus opisthomelas" ; Times: 2
+	Query: "Branta bernicla AND Island" ; Times: 2
+	Query: "Setophaga americana" ; Times: 1
+	Query: "geothlypis philadelphia year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "specificepithet:ruber genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pachycephala Vanuatu year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Egretta tricolor AND Island" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus hastissue:1" ; Times: 1
+	Query: "Poecile carolinensis indiana" ; Times: 1
+	Query: "parabuteo" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND Anthony NOT MCZ NOT YPM NOT MVZ NOT WFVZ NOT CM" ; Times: 1
+	Query: "striata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 4
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "Grus americana mappable:1" ; Times: 1
+	Query: "Stercorariidae continent:America North" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1308 download events in this period)
+Total number of records downloaded: 857
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 40
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-18 ; Times: 7
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-04 ; Times: 10
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "Tangara" ; Times: 2
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Setophaga americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "setophaga virens" ; Times: 2
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "diglossa" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
