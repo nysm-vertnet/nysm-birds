@@ -1,0 +1,138 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 126
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 16
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 9
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 3
+	Query: "class:Aves country:&#34;Greenland&#34;" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "numenius arquata" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 2
+	Query: "Fort Thorne" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "big moose lake bicknell vntype:specimen" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "county:&#34;Washington&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "vultur" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus Tanna" ; Times: 1
+	Query: "megaceryle alcyon" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 2
+	Query: "buteogallus" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "OR.5252" ; Times: 2
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "county:&#34;Fulton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "campephilus principalis" ; Times: 9
+	Query: "13459" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "genus:Chondestes county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 940 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+
+
+End of report.
