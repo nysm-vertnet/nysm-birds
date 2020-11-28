@@ -1,0 +1,212 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 644
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 16
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Portugal ; Times: 34
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 55
+	Country: Netherlands ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-28 ; Times: 5
+	Date: 2020-08-19 ; Times: 5
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-10 ; Times: 34
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 8
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-21 ; Times: 58
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "genus:cardinalis county:&#34;Albany&#34;" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "specificepithet:enucleator stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 4
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "Netherlands" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "Bonasa umbellus" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "mappable:1 scientificname:Cygnus atratus" ; Times: 1
+	Query: "lagopus muta" ; Times: 1
+	Query: "mappable:1 scientificname:Dolichonyx oryzivorus" ; Times: 1
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "mappable:1 scientificname:Aythya valisineria" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris graeca" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "lagopus muta canada" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus canaria" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Raine" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "mappable:1 scientificname:Chauna torquata" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "mappable:1 scientificname:Vultur gryphus" ; Times: 1
+	Query: "mappable:1 scientificname:Grus canadensis" ; Times: 1
+	Query: "mappable:1 scientificname:Aix sponsa" ; Times: 1
+	Query: "mappable:1 scientificname:Lophura nycthemera" ; Times: 1
+	Query: "Leucocarbo albiventer" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "Raine Manitoba" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Larus marinus" ; Times: 1
+	Query: "mappable:1 scientificname:Chloephaga picta" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus ruber" ; Times: 1
+	Query: "Poecile atricapilla" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "mappable:1 scientificname:Oxyura jamaicensis" ; Times: 1
+	Query: "mappable:1 scientificname:Todiramphus chloris" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "Rallus San Luis" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Lophura ignita" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "owls" ; Times: 1
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "ortalis vetula" ; Times: 3
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "Raine Saskatchewan" ; Times: 8
+	Query: "genus:Goura" ; Times: 2
+	Query: "Setophaga americana" ; Times: 2
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Falcipennis falcipennis" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "Vultur gryphus vntype:specimen (Perú)" ; Times: 1
+	Query: "mappable:1 scientificname:Phoenicopterus ruber" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 1
+	Query: "mappable:1 scientificname:Haliaeetus leucocephalus" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "mappable:1 scientificname:Balearica pavonina" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 756 download events in this period)
+Total number of records downloaded: 1268
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Vultur gryphus vntype:specimen (Perú)" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
