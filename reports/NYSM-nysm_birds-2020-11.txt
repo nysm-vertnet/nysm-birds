@@ -1,0 +1,193 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 795
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 15
+	Country: United Kingdom ; Times: 37
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 55
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 7
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 6
+	Date: 2020-11-24 ; Times: 5
+	Date: 2020-11-25 ; Times: 10
+	Date: 2020-11-26 ; Times: 6
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-04 ; Times: 2
+	Date: 2020-11-05 ; Times: 10
+	Date: 2020-11-02 ; Times: 35
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-19 ; Times: 5
+	Date: 2020-11-18 ; Times: 4
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-15 ; Times: 5
+	Date: 2020-11-14 ; Times: 4
+	Date: 2020-11-17 ; Times: 4
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-11 ; Times: 3
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 2
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "brookwood" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "northern fur seal" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "harpyja" ; Times: 1
+	Query: "class:AVES county:&#34;England&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Calonectris diomedea vntype:specimen country:&#34;Malta&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Falco columbarius" ; Times: 2
+	Query: "Falco tinnunculus" ; Times: 2
+	Query: "13425" ; Times: 1
+	Query: "morus bassanus vntype:specimen country:&#34;united kingdom&#34; AND (NOT eggs)" ; Times: 2
+	Query: "Columba livia" ; Times: 2
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba OR Bahamas)" ; Times: 1
+	Query: "alle alle vntype:specimen AND (NOT eggs)" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Setophaga striata" ; Times: 3
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female AND (United States)" ; Times: 2
+	Query: "specificepithet:albus genus:Eudocimus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rubra genus:piranga hastissue:1" ; Times: 1
+	Query: "scientificname:Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 1
+	Query: "family:Alaudidae hastissue:1" ; Times: 1
+	Query: "family:Hydrobatidae county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:junco institutioncode:NYSM" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "calonectris diomedea" ; Times: 4
+	Query: "Circus pygargus" ; Times: 3
+	Query: "limnothlypis swainsonii" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba OR Bahama)" ; Times: 1
+	Query: "morus bassanus vntype:specimen continent:europe AND (NOT eggs)" ; Times: 1
+	Query: "morus bassanus vntype:specimen AND (NOT eggs)" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba)" ; Times: 1
+	Query: "harpia harpyja" ; Times: 2
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female AND (United States OR USA OR U.S.A.)" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Vermont&#34; year &gt;= 1975 hastissue:1" ; Times: 3
+	Query: "Falco naumanni" ; Times: 2
+	Query: "numenius borealis" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 6
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "specificepithet:cardinalis genus:cardinalis hastissue:1" ; Times: 1
+	Query: "Calonectris diomedea vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "scientificname:Ardea cinerea" ; Times: 1
+	Query: "genus:Sula" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1987 year &lt;= 1987" ; Times: 4
+	Query: "recordedby:House" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "NYSM Sterna dougallii" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Petroica multicolor" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "alca" ; Times: 1
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Numida meleagris" ; Times: 2
+	Query: "Dendrocopos major" ; Times: 2
+	Query: "mappable:1 scientificname:Machaeropterus regulus" ; Times: 1
+	Query: "Tympanuchus cupido vntype:specimen stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis family:Rallidae hastissue:1" ; Times: 4
+	Query: "Aythya marila" ; Times: 1
+	Query: "Accipiter nisus" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 2
+	Query: "Tympanuchus phasianellus vntype:specimen stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "Somateria fischeri" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "onychoprion fuscatus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 842 download events in this period)
+Total number of records downloaded: 848
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-10 ; Times: 11
+	Date: 2020-11-03 ; Times: 4
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thalassina genus:tachycineta year &gt;= 1970 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba OR Bahamas)" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "specificepithet:albus genus:Eudocimus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "specificepithet:Californica genus:Callipepla county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+
+
+End of report.
