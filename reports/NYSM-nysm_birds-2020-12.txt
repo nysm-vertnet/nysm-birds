@@ -1,0 +1,235 @@
+Report for Institution Code NYSM, Resource nysm_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 1558
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 55
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 54
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 59
+	Country: Peru ; Times: 5
+	Country: Spain ; Times: 2
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 5
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 11
+	Date: 2020-12-29 ; Times: 3
+	Date: 2020-12-06 ; Times: 4
+	Date: 2020-12-02 ; Times: 20
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-07 ; Times: 5
+	Date: 2020-12-01 ; Times: 9
+	Date: 2020-12-09 ; Times: 10
+	Date: 2020-12-08 ; Times: 3
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 50
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 45
+	Date: 2020-12-14 ; Times: 6
+	Date: 2020-12-15 ; Times: 5
+	Date: 2020-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "mappable:1 scientificname:Rynchops niger" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "gyps fulvus" ; Times: 2
+	Query: "Cygnus olor" ; Times: 1
+	Query: "locality:black slough county:&#34;salt lake&#34;" ; Times: 1
+	Query: "country:&#34;us virgin islands&#34;" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "catharus minimus hastissue:1" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Loxia leucoptera" ; Times: 2
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 2
+	Query: "genus:Thalasseus hastissue:1" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "Anas falcata" ; Times: 2
+	Query: "mappable:1 scientificname:Buteo brachyurus" ; Times: 1
+	Query: "gbifdatasetid:5345b34d-82a4-44b7-9d82-5109df1ca243" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 2
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 2
+	Query: "class:aves country:Brazil" ; Times: 1
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 2
+	Query: "mappable:1 scientificname:Vanellus chilensis" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Dwight year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Ward year &lt;= 1900" ; Times: 1
+	Query: "Puffinus griseus" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Dwight J. year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "falkland islands egg recordedby:felton" ; Times: 1
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "class:Aves country:Brazil" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "locality:west point island year &gt;= 1895 year &lt;= 1920" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 1
+	Query: "mappable:1 scientificname:Setophaga pitiayumi" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 1
+	Query: "NYSM *11255" ; Times: 1
+	Query: "circus cyaneus vntype:specimen institutioncode:NYSM" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis family:Rallidae hastissue:1" ; Times: 3
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "recordedby:felton" ; Times: 2
+	Query: "zo-2575 institutioncode:NYSM" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "zo-49 institutioncode:NYSM" ; Times: 2
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "Icterus bullockii" ; Times: 2
+	Query: "Serinus canaria" ; Times: 1
+	Query: "west falklands egg" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo albonotatus" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "mappable:1 scientificname:Rhea americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 2
+	Query: "mappable:1 scientificname:Rostrhamus sociabilis" ; Times: 1
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 2
+	Query: "minnesota Tringa semipalmata" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:windham" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 1
+	Query: "mappable:1 scientificname:Bubulcus ibis" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 2
+	Query: "11296" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 2
+	Query: "mappable:1 scientificname:Coereba flaveola" ; Times: 1
+	Query: "mappable:1 scientificname:Aramus guarauna" ; Times: 2
+	Query: "falkland islands egg phalacrocorax recordedby:felton" ; Times: 1
+	Query: "vultur gryphus" ; Times: 3
+	Query: "Setophaga citrina" ; Times: 4
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen class:AVES recordedby:Bendire" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 7
+	Query: "mappable:1 scientificname:Chloroceryle amazona" ; Times: 1
+	Query: "bubo scandiacus" ; Times: 1
+	Query: "class:Aves country:Brazil continent:South America" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "geothlypis philadelphia" ; Times: 1
+	Query: "locality:west point island country:&#34;Argentina&#34; year &gt;= 1895 year &lt;= 1920" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna bicolor" ; Times: 1
+	Query: "mappable:1 scientificname:Haematopus palliatus" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Pingree Osburn 1906" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 2
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 4
+	Query: "Fulica americana" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 2
+	Query: "Caracara cheriway" ; Times: 2
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:New York recordedby:Ward" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruber genus:Phoenicopterus" ; Times: 1
+	Query: "mappable:1 scientificname:Charadrius wilsonia" ; Times: 1
+	Query: "locality:falkland island year &gt;= 1895 year &lt;= 1920" ; Times: 1
+	Query: "genus:caracara" ; Times: 2
+	Query: "west falkland egg" ; Times: 1
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "Icteria virens" ; Times: 2
+	Query: "larus institutioncode:NYSM" ; Times: 1
+	Query: "genus:zosterops hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "mappable:1 scientificname:Elanus leucurus" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 2
+	Query: "class:aves locality:Caloosahatchee River" ; Times: 1
+	Query: "Plectrophenax nivalis" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 1
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "maynard class:aves country:&#34;bahamas&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus" ; Times: 6
+	Query: "mappable:1 scientificname:Machaeropterus regulus" ; Times: 1
+	Query: "genus:Caracara" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo nitidus" ; Times: 1
+	Query: "mappable:1 scientificname:Leptotila verreauxi" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "egg Tringa semipalmata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 705 download events in this period)
+Total number of records downloaded: 1669
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 2
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "class:aves locality:Caloosahatchee River" ; Times: 1
+	Query: "class:Aves country:Brazil" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+
+
+End of report.
